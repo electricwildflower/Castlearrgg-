@@ -8,4 +8,4 @@ There are 3 files uploaded.
 2. Castle Walls - Just the castle walls without the castle
 3. The castle complete - The castle complete with a dungeon, stairway to hell and many rooms, items etc
 
-2 & 3 will be uploaded soon as i work on them
+I have uploaded the bare bones castle and castle walls, the third one is currently being worked on and will be uploaded as and when i get round to it. Check back often to see any updates.
