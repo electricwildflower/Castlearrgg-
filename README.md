@@ -8,4 +8,10 @@ There are 3 files uploaded.
 2. Castle Walls - Just the castle walls without the castle
 3. The castle complete - The castle complete with a dungeon, stairway to hell and many rooms, items etc
 
-I have uploaded the bare bones castle and castle walls, the third one is currently being worked on and will be uploaded as and when i get round to it. Check back often to see any updates.
+Bare Bones & Castle Walls is complete
+
+The castle complete is currently being worked on, the uploaded version has a few things added to it and i will be re uploading the castle complete every so often to reflect the changes i have made.
+
+Please Note!!! if you want to see any screenshots, discuss, give me ideas etc visit this link 
+
+https://forum.minetest.net/viewforum.php?f=12&sid=d6c08ba0c68b843893965c9560e0fdb3
